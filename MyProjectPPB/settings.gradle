@@ -1,4 +1,0 @@
-include ':lifescycleapp'
-include ':livecycleapp'
-include ':app'
-rootProject.name = "My Project PPB"

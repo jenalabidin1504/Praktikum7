@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Project PPB</string>
+    <string name="lbl_name">Nama Mahasiswa</string>
+    <string name="my_name">Jenal Abidin</string>
+    <string name="lbl_nim">NIM Mahasiswa</string>
+    <string name="my_nim">18102270</string>
+    <string name="pindah_ke_praktikum5">Pindah Ke Praktikum5</string>
+</resources>
